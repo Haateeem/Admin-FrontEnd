@@ -1,0 +1,13 @@
+function addTask() {
+    var table = document.getElementById("todo").getElementsByTagName('tbody')[0];
+    var newRow = table.insertRow(table.rows.length);
+
+    var cell1 = newRow.insertCell(0);
+    var cell2 = newRow.insertCell(1);
+
+    cell1.contentEditable = "true";
+    cell1.focus();
+    cell2.contentEditable = "true"; 
+}
+
+<button onclick="addTask()">Add Task</button>

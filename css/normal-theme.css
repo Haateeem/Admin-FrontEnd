@@ -1,0 +1,130 @@
+body {
+    background-color: ;
+}
+
+.dash-panels {
+    background-color: #fff;
+}
+
+
+/* Dashboard Branding */
+.brand-logo {
+    filter: brightness(0.8);
+}
+
+/* Navbar */
+.navbar {
+    background-color: aqua;
+}
+
+.admin-profile {
+    background-color: ;
+}
+
+.admin-profile button {
+    background-color: ;
+}
+
+/* Side Menu */
+.dash-menu {
+    background-color: ;
+}
+
+.dash-menu button {
+    background-color: ;
+}
+
+/* Profile Panel */
+.profile-panel {
+    background-color: ;
+}
+
+/* Notification Panel */
+.notification-panel {
+    background-color: ;
+}
+
+.notification-item {
+    background-color: ;
+}
+
+.notification-header {
+    background-color: ;
+}
+
+/* Cards */
+
+.card {
+    background-color: ;
+    
+}
+
+
+.card-yellow {
+    /* background: linear-gradient(to right, #3498db, #2ecc71); */
+}
+
+.card-green {
+    /* background: linear-gradient(45deg, #2ecc71, #f1c40f); */
+}
+
+.card-blue {
+    /* background: linear-gradient(to bottom, #f1c40f, #f39c12); */
+}
+
+/* Tables */
+
+.tab {
+    background-color: ;
+}
+
+.table-container {
+    background-color: ;
+    
+}
+
+.table1 th,
+.table1 td,
+.table2 th,
+.table2 td {
+    border-color: ;
+    
+}
+
+/* Control Panel */
+.control-panel {
+    background-color: ;
+}
+
+.control-panel-content button {
+    background-color: ;
+    color: ;
+}
+
+.assign-work {
+    background-color: ;
+}
+
+.raise-issue {
+    background-color: ;
+}
+
+.meeting-call {
+    background-color: ;
+}
+
+.add-admin {
+    background-color: ;
+}
+
+.delete-admin {
+    background-color: ;
+}
+
+.footer {
+    background-color: ;
+}
+
+.bottom-footer {
+    background-color: ;
+}
